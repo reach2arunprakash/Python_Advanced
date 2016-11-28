@@ -1,59 +1,62 @@
 # Python_Advanced
 
 
-List 
-pickle 
-Random
-Comprehensions
+###List
+
+###pickle 
+
+###Random
+
+###Comprehensions
 	Range 	
 	List Slicing
 	Omiting indexes
 	Reversing lists
 	Stride length
 
-Iterators and Generators
-Zip and UnZip
-Decorators
+###Iterators and Generators
+###Zip and UnZip
+###Decorators
 
-Contex Managers
-Descriptors
-Metaclasses
-Conventions
-Patterns
+###Contex Managers
+###Descriptors
+###Metaclasses
+###Conventions
+###Patterns
 
-Named Functions and Lambdas
-	Lambadas - Anonymous fucntions or closures
-	Lambda Syntax
-Madreduce
-Partial Functions
+###Named Functions and Lambdas
+	####Lambadas - Anonymous fucntions or closures
+	####Lambda Syntax
+###Mapreduce
+###Partial Functions
 
-Working with Data
-Data Scarpping
+###Working with Data
+###Data Scarpping
 	BeautifulSoup
-Matplotlib
-Twython
-iPython
-Jython
-Cython
-Pylint
+###Matplotlib
+###Twython
+###iPython
+###Jython
+###Cython
+###Pylint
 
-Flask
-Django
-
-
-collections
-threading
-functools
-hashlib
-
-numpy
-ply
-re
-scipy
+###Flask
+###Django
 
 
+###collections
+###threading
+###functools
+###hashlib
 
-Iterators for Dictionaries
+###numpy
+###ply
+###re
+###scipy
+
+
+
+###Iterators for Dictionaries
 
 my_dict = { "Name": "arun",
     "age":2
